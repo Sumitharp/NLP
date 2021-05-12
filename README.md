@@ -6,7 +6,7 @@
 
 ## Background
 
-There's been a lot of hype in the news lately about cryptocurrency, so to take stock, of the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin.
+There's been a lot of hype in the news lately about cryptocurrency, so we take stock, of the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin.
 
 To do this natural language processing is applied to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. Following tasks are completed : Sentiment Analysis, NLP and Named Entity Recognition.
 
@@ -62,7 +62,7 @@ Finally, word clouds is generated for each coin to summarize the news for each c
 
 In this section, a named entity recognition model for both coins and visualize the tags using SpaCy.
 
-![btc-ner](btc_ner.png)
+![Bitcoin Named Entity Recongnition](btc_ner.png)
 
-![eth-ner](eth_ner.png)
+![Ethereum Named Entity Recognition](eth_ner.png)
 
