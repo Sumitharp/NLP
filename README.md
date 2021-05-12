@@ -6,7 +6,7 @@
 
 ## Background
 
-There's been a lot of hype in the news lately about cryptocurrency, so to take stock, of the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin.
+There's been a lot of hype in the news lately about cryptocurrency, so we take stock, of the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin.
 
 To do this natural language processing is applied to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. Following tasks are completed : Sentiment Analysis, NLP and Named Entity Recognition.
 
@@ -26,7 +26,7 @@ A: Bitcoin has the highest compound mean score of 0.2844 cf. 0.1205
 
 Q. Which coin had the highest neutral score?
 
-A: Ethereum has the highest neutral score of 0.9489 cf. Eth's 0.9113
+A: Ethereum has the highest neutral score of 0.9489 cf. Btc's 0.9113
 
 
 ### 2 - Natural Language Processing
@@ -52,9 +52,9 @@ Next, ngrams and word frequency for each coin.
 
 Finally, word clouds is generated for each coin to summarize the news for each coin.
 
-![btc-word-cloud](Bitcoin_wordcloud.png)
+![btc-word-cloud](Images/Bitcoin_wordcloud.png)
 
-![eth-word-cloud](Eth_wordcloud.png)
+![eth-word-cloud](Images/Eth_wordcloud.png)
 
 ---
 
@@ -62,7 +62,7 @@ Finally, word clouds is generated for each coin to summarize the news for each c
 
 In this section, a named entity recognition model for both coins and visualize the tags using SpaCy.
 
-![btc-ner](btc_ner.png)
+![btc-ner](Images/btc_ner.png)
 
-![eth-ner](eth_ner.png)
+![eth-ner](Images/eth_ner.png)
 
