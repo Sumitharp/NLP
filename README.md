@@ -26,7 +26,7 @@ A: Bitcoin has the highest compound mean score of 0.2844 cf. 0.1205
 
 Q. Which coin had the highest neutral score?
 
-A: Ethereum has the highest neutral score of 0.9489 cf. Eth's 0.9113
+A: Ethereum has the highest neutral score of 0.9489 cf. Btc's 0.9113
 
 
 ### 2 - Natural Language Processing
